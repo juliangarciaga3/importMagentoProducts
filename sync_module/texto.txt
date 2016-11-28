@@ -1,0 +1,5 @@
+modelo;submodelo;metal;nombre;descripcion;peso;precio_unidad;disponibilidad;imagen;precio_minimo;pvp
+(18)1000202;18;ORO 750/000 (18K);Caja carton;Una caja de 50x60;2.57;108.62;En stock;http://clientes.argyor.com/photos/original/1000202.jpg;225;250.00
+(18)1000215;18;ORO 750/000 (18K);Caja aluminio;Una caja de 50x70;2.58;108.99;éltimas unidades;http://clientes.argyor.com/photos/original/1000215.jpg;226;251.00
+(18)1000218;18;ORO 750/000 (18K);Caja madera;Una caja de 50x80;2.52;106.75;éltimas unidades;http://clientes.argyor.com/photos/original/1000218.jpg;221;246.00
+(18)1000219;18;ORO 750/000 (18K);Caja esparto;Una caja de 50x90;2.53;107.13;Consultar;http://clientes.argyor.com/photos/original/1000219.jpg;222;246.00
